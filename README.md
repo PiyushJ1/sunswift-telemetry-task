@@ -1,4 +1,4 @@
-# SR8 Telemetry Pipeline
+# Sunswift Racing Telemetry Pipeline Task
 
 A telemetry pipeline that sends simulated car data to **AWS IoT Core** over MQTT and stores each reading in **Amazon DynamoDB**.
 
